@@ -61,6 +61,7 @@ Una vez activado el entorno virtual, el *script* se ejecuta pasando la **ruta de
 
 ```bash
 (venv) $ python extractor_metadatos.py [RUTA_AL_ARCHIVO]
+```
 
 ## 4. 🧪 Pruebas Unitarias
 
@@ -80,3 +81,5 @@ Para ejecutar el *suite* de pruebas, asegúrese de estar en el directorio del pr
 
 ```bash
 (venv) $ python test_extractor_metadatos.py
+
+```
