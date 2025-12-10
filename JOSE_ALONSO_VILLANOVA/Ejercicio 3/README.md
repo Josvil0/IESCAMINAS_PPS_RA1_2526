@@ -20,12 +20,12 @@ Para demostrar que los resultados son propios y no imágenes aleatorias, la hora
 
 **Resultado del historial local completado.**
 
-![Imagen Principal](Git Principal.png)
+![Imagen Principal](GitPrincipal.png)
 
 ### 2. Pestaña Remota (Remote) - Eje Remoto
 
 **Resultado del historial remoto completado.**
 
-![Imagen Remoto](Git Remoto.png)
+![Imagen Remoto](GitRemoto.png)
 
 ***
